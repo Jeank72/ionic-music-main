@@ -1,0 +1,26 @@
+ion-content {
+    --background: #16355a;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+  }
+  
+  ion-toolbar{
+    --background: #4974a8;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+  }
+
+  ion-item{
+    --background: #4974a8;
+
+  }
+
+p:hover{
+color: rgb(0, 67, 145);
+font-weight: bold;
+ }
+
+ #cerrar:hover{
+    color: rgb(168, 6, 6);
+     font-weight: bold;
+}

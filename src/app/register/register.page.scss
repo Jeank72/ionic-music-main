@@ -1,0 +1,22 @@
+ion-content {
+    --background: #16355a;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+  }
+  
+  ion-toolbar{
+    --background: #4974a8;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+  }
+
+
+.alert{
+  color: rgb(255, 136, 136);
+  font-weight: bold;
+}
+
+.button-inner{
+  color:var(--ion-text-color);
+  font-weight: bold;
+}
